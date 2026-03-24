@@ -1,8 +1,5 @@
-# Go
-/stock_price
-*.exe
-*.test
-*.out
+# Node.js
+node_modules/
 
 # Python (legacy)
 venv/
