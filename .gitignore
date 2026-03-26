@@ -1,11 +1,3 @@
-# Go
-/stock_price
-*.exe
-*.test
-*.out
-
-# Python (legacy)
-venv/
-__pycache__/
-*.pyc
-.env
+# Java
+out/
+*.class
